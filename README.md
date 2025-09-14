@@ -38,7 +38,7 @@ This project provides an efficient platform for managing patients, doctors, appo
 
 ## 📂 Project Structure
 
-``
+```
 
 Healthcare\_Management\_System/
 │
@@ -50,7 +50,7 @@ Healthcare\_Management\_System/
 ├── manage.py              # Django management script
 └── README.md              # Project documentation
 
-``
+```
 
 ---
 
